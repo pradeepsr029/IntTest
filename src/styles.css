@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+label {
+  display: block;
+}
+
+.gridImg img {
+  height: 60px;
+  width: 60px;
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+}
